@@ -13,3 +13,7 @@ Data analysis project on a fictional bank customer dataset of 10,000 unique cust
 - Out of 3 countries that the bank operates in, **Germany** has the highest churn rate
 - **Diamond card holders** tend to have higher churn rates than other card holders
 - Churn rate is generally unaffected by Tenure, Satisfaction Score and Number of Points Earned. 
+
+# Conclusions
+
+Services targeted at the 40-60 year old demographic can be added or further improved. Identify whether certain products are being pushed for sale to customers from the third product onwards that are deemed unnecessary or undesirable by customers. It is also worthy to investigate the bank's services in Germany as a whole, through surveys with existing customers and service comparison with competitors, to pinpoint the reasons for poor performance in the country.  Additional incentives or services can be provided to diamond card holders, possibly through more attractive rewards from using higher-end goods and services. 
